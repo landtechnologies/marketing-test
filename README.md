@@ -27,6 +27,6 @@ For this technical task we've provided some mock data to get you up and going (f
 ## Considerations
 
 - We use a mixture of PHP, JS, HTML & CSS in the marketing team. However - with this technical test we are looking to prove that you can come in & hit the ground running with our PHP based marketing site.
-- Don't worry about styling. However, we are interested in seeing the data rendered in a meaningful way.
+- We are interested in seeing the data rendered in a meaningful way.
 - Don't forget to include any relevant documentation about how to run the app locally.
 - Please spend no longer than 2hrs working on this technical task. If you find yourself running out of time - feel free to capture your 'next steps' in a README with your submission.

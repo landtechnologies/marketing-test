@@ -4,14 +4,7 @@ At LandTech we use articles as part of our conversion funnel. Marketing are inte
 
 For this technical task we've provided some mock data to get you up and going (found in `data.json`) but imagine in production this would be coming from some sort of api. The data contains a collection of `articles` & `authors`. We have also included a directory of author images (`images/authors/[authorId].jpg`).
 
-**Considerations**:
-
-- We use a mixture of PHP & JS in the marketing team. We are looking to prove with this technical test that you can come in & hit the ground running with our PHP based marketing site.
-- Don't worry about styling. However, we are interested in seeing the data rendered in a meaningful way.
-- Don't forget include any relevant documentation about how to run the app locally.
-- Please spend no longer than 2hrs working on this technical task. If you find yourself running out of time - feel free to capture your 'next steps' in a README with your submission.
-
-### Task
+## Task
 
 1. Render the list of articles from `data.json` showing:
 
@@ -30,3 +23,10 @@ For this technical task we've provided some mock data to get you up and going (f
    - Author name
    - Number of published articles
    - Average conversion rate for articles
+
+## Considerations
+
+- We use a mixture of PHP & JS in the marketing team. We are looking to prove with this technical test that you can come in & hit the ground running with our PHP based marketing site.
+- Don't worry about styling. However, we are interested in seeing the data rendered in a meaningful way.
+- Don't forget include any relevant documentation about how to run the app locally.
+- Please spend no longer than 2hrs working on this technical task. If you find yourself running out of time - feel free to capture your 'next steps' in a README with your submission.

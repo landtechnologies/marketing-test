@@ -14,7 +14,7 @@ For this technical task we've provided some mock data to get you up and going (f
 
 1. Calculate and render a conversion rate percentage next to each article. Use the following thresholds to make it easy to see at a glance which articles are performing well.
 
-   - 8 and below show as red.
+   - Less than 8 show as red.
    - Between 8 & 10 show as yellow.
    - 10 or above show as green.
 

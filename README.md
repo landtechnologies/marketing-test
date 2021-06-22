@@ -14,9 +14,9 @@ For this technical task we've provided some mock data to get you up and going (f
 
 1. Calculate and render a conversion rate percentage next to each article. Use the following thresholds to make it easy to see at a glance which articles are performing well.
 
-   - Anything less than 8 show as red.
-   - Anything less than 10 show as yellow.
-   - Anything 10 or above show as green.
+   - 8 and below show as red.
+   - Between 8 & 10 show as yellow.
+   - 10 or above show as green.
 
 1. Elsewhere on the page create a table of authors and order them based on their published article's conversion rate. The table should include the following:
 
@@ -26,7 +26,7 @@ For this technical task we've provided some mock data to get you up and going (f
 
 ## Considerations
 
-- We use a mixture of PHP & JS in the marketing team. We are looking to prove with this technical test that you can come in & hit the ground running with our PHP based marketing site.
+- We use a mixture of PHP, JS, HTML & CSS in the marketing team. However - with this test we are looking to prove with this technical test that you can come in & hit the ground running with our PHP based marketing site.
 - Don't worry about styling. However, we are interested in seeing the data rendered in a meaningful way.
 - Don't forget include any relevant documentation about how to run the app locally.
 - Please spend no longer than 2hrs working on this technical task. If you find yourself running out of time - feel free to capture your 'next steps' in a README with your submission.
